@@ -11,9 +11,10 @@ This set of scripts automatically generates license files for your projects. It 
 ## Usage
 
 ### Option 1: Using package.json scripts
-Add the following line to your package.json file's scripts section:
+1. Add the following line to your package.json file's scripts section:
 ```"generate-licenses": "node scripts/generateLicenses.js"```
-Run the script from the terminal:
+
+2. Run the script from the terminal:
 ```npm run generate-licenses```
 
 ### Option 2: Running directly from the terminal
