@@ -5,6 +5,7 @@ This set of scripts automatically generates license files for your projects. It 
 
 ## Installation
 
+0. Have the license-checker from davglass installed: https://github.com/davglass/license-checker
 1. Clone or download this repository to your local machine.
 2. Copy the scripts folder to your project's root directory.
 
